@@ -2,3 +2,4 @@
 [1009/130504.251:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Utilisateur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c08c4928-9577-44d7-ace6-320a7658f32f: Le chemin d’accès spécifié est introuvable. (0x3)
 [1009/130506.382:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Utilisateur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ee712876-6881-4f18-a871-5617b2022157: Le chemin d’accès spécifié est introuvable. (0x3)
 [1009/130507.594:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Utilisateur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\405b6b41-a9b1-43a5-9b7c-493a429e6635: Le chemin d’accès spécifié est introuvable. (0x3)
+[1009/131455.164:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
