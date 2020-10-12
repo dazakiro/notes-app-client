@@ -32,9 +32,8 @@ const dev = {
       IDENTITY_POOL_ID: "us-east-2:a790f8a2-993b-437b-bbfa-a4070fd852a5"
     }
   };
-const config = process.env.REACT_APP_STAGE === 'prod'
-? prod
-: dev;
+const config = process.env.REACT_APP_STAGE === 'prod'? prod : dev;
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
+  ...config
   };
